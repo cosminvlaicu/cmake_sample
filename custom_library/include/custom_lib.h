@@ -1,0 +1,1 @@
+void print_custom(int n);
